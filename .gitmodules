@@ -1,0 +1,6 @@
+[submodule "clmath"]
+	path = clmath
+	url = git@github.com:cnnrl/clmath.git
+[submodule "arena-cpp"]
+	path = arena-cpp
+	url = git@github.com:cnnrl/arena-cpp.git
